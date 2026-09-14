@@ -1,0 +1,6 @@
+com/example/java_jaVers/controller/RequestController.class
+com/example/java_jaVers/JavaJaVersApplication.class
+com/example/java_jaVers/entity/RequestStatus.class
+com/example/java_jaVers/repository/RequestRepository.class
+com/example/java_jaVers/entity/Request.class
+com/example/java_jaVers/service/RequestService.class
