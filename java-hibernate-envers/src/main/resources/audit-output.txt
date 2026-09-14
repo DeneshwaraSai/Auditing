@@ -1,0 +1,67 @@
+[
+    {
+        "request": {
+            "id": "05a70dff-5c6e-4141-a1c7-28b732a342d8",
+            "employeeId": 1009,
+            "startDate": "2026-09-15",
+            "endDate": "2026-09-17",
+            "status": "PARTIALLY_PROCESSED",
+            "totalHours": 22.0,
+            "totalDays": 5.0
+        },
+        "revision": 8,
+        "revisionDate": "2026-09-14T14:38:01.141Z"
+    },
+    {
+        "request": {
+            "id": "05a70dff-5c6e-4141-a1c7-28b732a342d8",
+            "employeeId": 1009,
+            "startDate": "2026-09-15",
+            "endDate": "2026-09-17",
+            "status": "REJECTED",
+            "totalHours": 22.0,
+            "totalDays": 5.0
+        },
+        "revision": 7,
+        "revisionDate": "2026-09-14T14:32:57.873Z"
+    },
+    {
+        "request": {
+            "id": "05a70dff-5c6e-4141-a1c7-28b732a342d8",
+            "employeeId": 1009,
+            "startDate": "2026-09-15",
+            "endDate": "2026-09-17",
+            "status": "PROCESSED",
+            "totalHours": 22.0,
+            "totalDays": 5.0
+        },
+        "revision": 6,
+        "revisionDate": "2026-09-14T14:32:54.027Z"
+    },
+    {
+        "request": {
+            "id": "05a70dff-5c6e-4141-a1c7-28b732a342d8",
+            "employeeId": 1009,
+            "startDate": "2026-09-15",
+            "endDate": "2026-09-17",
+            "status": "APPROVED",
+            "totalHours": 22.0,
+            "totalDays": 5.0
+        },
+        "revision": 5,
+        "revisionDate": "2026-09-14T14:32:49.292Z"
+    },
+    {
+        "request": {
+            "id": "05a70dff-5c6e-4141-a1c7-28b732a342d8",
+            "employeeId": 1009,
+            "startDate": "2026-09-15",
+            "endDate": "2026-09-17",
+            "status": "PENDING",
+            "totalHours": 22.0,
+            "totalDays": 5.0
+        },
+        "revision": 4,
+        "revisionDate": "2026-09-14T14:32:18.393Z"
+    }
+]
