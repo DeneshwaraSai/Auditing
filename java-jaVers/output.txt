@@ -1,0 +1,288 @@
+{
+    "4": [
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T15:23:24.584",
+                "commitDateInstant": "2026-09-14T09:53:24.584528Z",
+                "id": {
+                    "majorId": 5,
+                    "minorId": 0
+                }
+            },
+            "left": "APPROVED",
+            "propertyAdded": false,
+            "propertyName": "status",
+            "propertyNameWithPath": "status",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": "PROCESSED"
+        }
+    ],
+    "3": [
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T15:22:49.323",
+                "commitDateInstant": "2026-09-14T09:52:49.323858Z",
+                "id": {
+                    "majorId": 4,
+                    "minorId": 0
+                }
+            },
+            "left": "REJECTED",
+            "propertyAdded": false,
+            "propertyName": "status",
+            "propertyNameWithPath": "status",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": "APPROVED"
+        }
+    ],
+    "2": [
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T15:22:35.014",
+                "commitDateInstant": "2026-09-14T09:52:35.014492Z",
+                "id": {
+                    "majorId": 3,
+                    "minorId": 0
+                }
+            },
+            "left": "PENDING",
+            "propertyAdded": false,
+            "propertyName": "status",
+            "propertyNameWithPath": "status",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": "REJECTED"
+        }
+    ],
+    "1": [
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T14:51:21.538",
+                "commitDateInstant": "2026-09-14T09:21:21.538906Z",
+                "id": {
+                    "majorId": 2,
+                    "minorId": 0
+                }
+            }
+        },
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T14:51:21.538",
+                "commitDateInstant": "2026-09-14T09:21:21.538906Z",
+                "id": {
+                    "majorId": 2,
+                    "minorId": 0
+                }
+            },
+            "left": null,
+            "propertyAdded": false,
+            "propertyName": "id",
+            "propertyNameWithPath": "id",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": "941ca479-936c-4d3d-b86a-e99943c90eb2"
+        },
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T14:51:21.538",
+                "commitDateInstant": "2026-09-14T09:21:21.538906Z",
+                "id": {
+                    "majorId": 2,
+                    "minorId": 0
+                }
+            },
+            "left": null,
+            "propertyAdded": false,
+            "propertyName": "employeeId",
+            "propertyNameWithPath": "employeeId",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": 1009
+        },
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T14:51:21.538",
+                "commitDateInstant": "2026-09-14T09:21:21.538906Z",
+                "id": {
+                    "majorId": 2,
+                    "minorId": 0
+                }
+            },
+            "left": null,
+            "propertyAdded": false,
+            "propertyName": "startDate",
+            "propertyNameWithPath": "startDate",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": "2026-09-15"
+        },
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T14:51:21.538",
+                "commitDateInstant": "2026-09-14T09:21:21.538906Z",
+                "id": {
+                    "majorId": 2,
+                    "minorId": 0
+                }
+            },
+            "left": null,
+            "propertyAdded": false,
+            "propertyName": "endDate",
+            "propertyNameWithPath": "endDate",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": "2026-09-17"
+        },
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T14:51:21.538",
+                "commitDateInstant": "2026-09-14T09:21:21.538906Z",
+                "id": {
+                    "majorId": 2,
+                    "minorId": 0
+                }
+            },
+            "left": null,
+            "propertyAdded": false,
+            "propertyName": "status",
+            "propertyNameWithPath": "status",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": "PENDING"
+        },
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T14:51:21.538",
+                "commitDateInstant": "2026-09-14T09:21:21.538906Z",
+                "id": {
+                    "majorId": 2,
+                    "minorId": 0
+                }
+            },
+            "left": null,
+            "propertyAdded": false,
+            "propertyName": "totalHours",
+            "propertyNameWithPath": "totalHours",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": 22.0
+        },
+        {
+            "affectedGlobalId": {
+                "cdoId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+                "typeName": "com.example.java_jaVers.entity.Request"
+            },
+            "affectedLocalId": "941ca479-936c-4d3d-b86a-e99943c90eb2",
+            "affectedObject": null,
+            "changeType": "PROPERTY_VALUE_CHANGED",
+            "commitMetadata": {
+                "author": "unknown",
+                "properties": {},
+                "commitDate": "2026-09-14T14:51:21.538",
+                "commitDateInstant": "2026-09-14T09:21:21.538906Z",
+                "id": {
+                    "majorId": 2,
+                    "minorId": 0
+                }
+            },
+            "left": null,
+            "propertyAdded": false,
+            "propertyName": "totalDays",
+            "propertyNameWithPath": "totalDays",
+            "propertyRemoved": false,
+            "propertyValueChanged": true,
+            "right": 5.0
+        }
+    ]
+}
